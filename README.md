@@ -14,7 +14,7 @@
   </a>
   
   <a href="https://studygolang.com/">
-    <img src="https://www.vectorlogo.zone/logos/golang/golang-vertical.svg" alt="golang" style="vertical-align:top; margin:4px">
+    <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="golang" style="vertical-align:top; margin:4px">
   </a>
   
   
