@@ -1,8 +1,5 @@
-<p align="center"> 
- <strong>
-  Professional skills
- </strong>
-</p>
+<h1 align="center">Professional skills</h1>
+
 
 <p align="center">
   <a href="https://dotnet.microsoft.com/">
