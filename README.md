@@ -1,8 +1,8 @@
 <h1 align="center">Professional skills</h1>
 
 
-<p align="center" target="_blank">
-  <a href="https://dotnet.microsoft.com/">
+<p align="center">
+  <a href="https://dotnet.microsoft.com/"  target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" height="60px" alt="dotnet" style="vertical-align:top; margin:4px;">
   </a>
  
