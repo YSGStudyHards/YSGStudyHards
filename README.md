@@ -14,6 +14,17 @@
     <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="golang" style="vertical-align:top; margin:4px">
   </a>
   
+  <a href="http://www.redis.cn/">
+    <img src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg" alt="redis" style="vertical-align:top; margin:4px">
+  </a>
+  
+  <a href="https://www.elastic.co">
+    <img src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg" alt="elasticsearch" style="vertical-align:top; margin:4px">
+  </a>
+  
+  <a href="https://www.rabbitmq.com">
+    <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-ar21.svg" alt="rabbitmq" style="vertical-align:top; margin:4px">
+  </a>
   
   <a href="https://www.tslang.cn/">
     <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" alt="typescript" style="vertical-align:top; margin:4px;">
@@ -25,11 +36,6 @@
  
    <a href="https://angular.io">
     <img src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" alt="angular" style="vertical-align:top; margin:4px;">
-  </a>
- 
- 
-  <a href="https://git-scm.com/">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git" style="vertical-align:top; margin:4px;">
   </a>
   
   <a href="https://www.consul.io/">
@@ -55,13 +61,13 @@
   <a href="https://www.envoyproxy.io">
     <img src="https://www.vectorlogo.zone/logos/envoyproxyio/envoyproxyio-ar21.svg" alt="istio" style="vertical-align:top; margin:4px">
   </a>
-  
-  <a href="https://www.elastic.co">
-    <img src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg" alt="elasticsearch" style="vertical-align:top; margin:4px">
+
+  <a href="https://git-scm.com/">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git" style="vertical-align:top; margin:4px;">
   </a>
   
-  <a href="https://www.rabbitmq.com">
-    <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-ar21.svg" alt="rabbitmq" style="vertical-align:top; margin:4px">
+  <a href="https://gitlab.com/users/sign_in">
+    <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg" alt="gitlab" style="vertical-align:top; margin:4px;">
   </a>
   
   <a href="https://www.jenkins.io/">
