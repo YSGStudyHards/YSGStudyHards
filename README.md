@@ -1,7 +1,7 @@
 <p align="center"> 
- <h1>
+ <strong>
   Professional skills
- </h1>
+ </strong>
 </p>
 
 <p align="center">
