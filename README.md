@@ -1,14 +1,7 @@
-<h1 align="center">Hi there, I'm Edwin 👋</h1>
-
-<p align="center"> 
- <a href="https://github.com/YSGStudyHards" alt="github">
-   <img src="https://img.shields.io/badge/-追逐时光者-%23181717?style=flat-square&logo=github" />
- </a>
-
- <a href="https://www.cnblogs.com/Can-daydayup/" alt="blog">
+<h1 align="center">Hi there, I'm Edwin  <a href="https://www.cnblogs.com/Can-daydayup/" alt="blog">
    <img src="https://img.shields.io/badge/cnblogs-追逐时光者-brightgreen?style=flat-square" />
- </a>
-</p>
+ </a>👋</h1>
+
 
 ---
 
