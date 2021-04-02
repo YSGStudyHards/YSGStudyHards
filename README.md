@@ -17,4 +17,9 @@
  </a>
 </p>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=YSGStudyHards&hide=["contribs","prs"])
+---
+
+
+<p align="center">
+  <a href="#" alt="mehdi hadeli's github stats"><img src="https://github-readme-stats.vercel.app/api?username=YSGStudyHards&hide=["contribs","prs"]" /></a>
+</p>
