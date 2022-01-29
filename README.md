@@ -22,6 +22,10 @@
     <img src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg" alt="elasticsearch" style="vertical-align:top; margin:4px">
   </a>
   
+  <a href="https://kafka.apache.org/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg" alt="kafka" style="vertical-align:top; margin:4px">
+  </a>
+  
   <a href="https://www.rabbitmq.com" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-ar21.svg" alt="rabbitmq" style="vertical-align:top; margin:4px">
   </a>
@@ -40,10 +44,6 @@
   
   <a href="https://www.consul.io/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/consulio/consulio-ar21.svg" alt="consul" style="vertical-align:top; margin:4px;">
-  </a>
- 
-  <a href="https://travis-ci.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-ar21.svg" alt="travis" style="vertical-align:top; margin:4px;">
   </a>
 
   <a href="https://hub.docker.com/" target="_blank">
@@ -68,6 +68,10 @@
   
   <a href="https://gitlab.com/users/sign_in" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg" alt="gitlab" style="vertical-align:top; margin:4px;">
+  </a>
+  
+  <a href="https://travis-ci.org/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-ar21.svg" alt="travis" style="vertical-align:top; margin:4px;">
   </a>
   
   <a href="https://www.jenkins.io/" target="_blank">
