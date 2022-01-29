@@ -2,79 +2,79 @@
 
 
 <p align="center">
-  <a href="https://dotnet.microsoft.com/"  target="_blank">
+  <a href="https://dotnet.microsoft.com/"  target="_self">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" height="60px" alt="dotnet" style="vertical-align:top; margin:4px;">
   </a>
  
-  <a href="https://dotnet.microsoft.com/" target="_blank">
+  <a href="https://dotnet.microsoft.com/" target="_self">
     <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg" alt="dotnet" style="vertical-align:top; margin:4px;">
   </a>
   
-  <a href="https://studygolang.com/" target="_blank">
+  <a href="https://studygolang.com/" target="_self">
     <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="golang" style="vertical-align:top; margin:4px">
   </a>
   
-  <a href="http://www.redis.cn/" target="_blank">
+  <a href="http://www.redis.cn/" target="_self">
     <img src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg" alt="redis" style="vertical-align:top; margin:4px">
   </a>
   
-  <a href="https://www.elastic.co" target="_blank">
+  <a href="https://www.elastic.co" target="_self">
     <img src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg" alt="elasticsearch" style="vertical-align:top; margin:4px">
   </a>
   
-  <a href="https://kafka.apache.org/" target="_blank">
+  <a href="https://kafka.apache.org/" target="_self">
     <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg" alt="kafka" style="vertical-align:top; margin:4px">
   </a>
   
-  <a href="https://www.rabbitmq.com" target="_blank">
+  <a href="https://www.rabbitmq.com" target="_self">
     <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-ar21.svg" alt="rabbitmq" style="vertical-align:top; margin:4px">
   </a>
   
-  <a href="https://www.tslang.cn/" target="_blank">
+  <a href="https://www.tslang.cn/" target="_self">
     <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" alt="typescript" style="vertical-align:top; margin:4px;">
   </a>
   
-  <a href="https://cn.vuejs.org/" target="_blank">
+  <a href="https://cn.vuejs.org/" target="_self">
     <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg" alt="vue" style="vertical-align:top; margin:4px;">
   </a>
  
-   <a href="https://angular.io" target="_blank">
+   <a href="https://angular.io" target="_self">
     <img src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" alt="angular" style="vertical-align:top; margin:4px;">
   </a>
   
-  <a href="https://www.consul.io/" target="_blank">
+  <a href="https://www.consul.io/" target="_self">
     <img src="https://www.vectorlogo.zone/logos/consulio/consulio-ar21.svg" alt="consul" style="vertical-align:top; margin:4px;">
   </a>
 
-  <a href="https://hub.docker.com/" target="_blank">
+  <a href="https://hub.docker.com/" target="_self">
     <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="docker" style="vertical-align:top; margin:4px">
   </a>
 
-  <a href="https://kubernetes.io" target="_blank">
+  <a href="https://kubernetes.io" target="_self">
     <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg" alt="kubernetes" style="vertical-align:top; margin:4px">
   </a>
   
-  <a href="https://istio.io" target="_blank">
+  <a href="https://istio.io" target="_self">
     <img src="https://www.vectorlogo.zone/logos/istioio/istioio-ar21.svg" alt="istio" style="vertical-align:top; margin:4px">
   </a>
   
-  <a href="https://www.envoyproxy.io" target="_blank">
+  <a href="https://www.envoyproxy.io" target="_self">
     <img src="https://www.vectorlogo.zone/logos/envoyproxyio/envoyproxyio-ar21.svg" alt="istio" style="vertical-align:top; margin:4px">
   </a>
 
-  <a href="https://git-scm.com/" target="_blank">
+  <a href="https://git-scm.com/" target="_self">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git" style="vertical-align:top; margin:4px;">
   </a>
   
-  <a href="https://gitlab.com/users/sign_in" target="_blank">
+  <a href="https://gitlab.com/users/sign_in" target="_self">
     <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg" alt="gitlab" style="vertical-align:top; margin:4px;">
   </a>
   
-  <a href="https://travis-ci.org/" target="_blank">
+  <a href="https://travis-ci.org/" target="_self">
     <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-ar21.svg" alt="travis" style="vertical-align:top; margin:4px;">
   </a>
   
-  <a href="https://www.jenkins.io/" target="_blank">
+  <a href="https://www.jenkins.io/" target="_self">
     <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg" alt="jenkins" style="vertical-align:top; margin:4px">
   </a><br/>
 </p>
