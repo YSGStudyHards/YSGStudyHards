@@ -1,87 +1,25 @@
-<h1 align="center">Professional skills</h1>
 
 
-<p align="center">
-  <a href="https://dotnet.microsoft.com/"  target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" height="60px" alt="dotnet" style="vertical-align:top; margin:4px;">
-  </a>
- 
-  <a href="https://dotnet.microsoft.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg" alt="dotnet" style="vertical-align:top; margin:4px;">
-  </a>
-  
-  <a href="https://studygolang.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="golang" style="vertical-align:top; margin:4px">
-  </a>
-  
-  <a href="http://www.redis.cn/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg" alt="redis" style="vertical-align:top; margin:4px">
-  </a>
-  
-  <a href="https://www.elastic.co" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg" alt="elasticsearch" style="vertical-align:top; margin:4px">
-  </a>
-  
-  <a href="https://kafka.apache.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg" alt="kafka" style="vertical-align:top; margin:4px">
-  </a>
-  
-  <a href="https://www.rabbitmq.com" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-ar21.svg" alt="rabbitmq" style="vertical-align:top; margin:4px">
-  </a>
-  
-  <a href="https://www.tslang.cn/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" alt="typescript" style="vertical-align:top; margin:4px;">
-  </a>
-  
-  <a href="https://cn.vuejs.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg" alt="vue" style="vertical-align:top; margin:4px;">
-  </a>
- 
-   <a href="https://angular.io" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" alt="angular" style="vertical-align:top; margin:4px;">
-  </a>
-  
-  <a href="https://www.consul.io/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/consulio/consulio-ar21.svg" alt="consul" style="vertical-align:top; margin:4px;">
-  </a>
+![追逐时光者 github stats](https://github-readme-stats.vercel.app/api?username=YSGStudyHards&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)
 
-  <a href="https://hub.docker.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="docker" style="vertical-align:top; margin:4px">
-  </a>
 
-  <a href="https://kubernetes.io" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg" alt="kubernetes" style="vertical-align:top; margin:4px">
-  </a>
-  
-  <a href="https://istio.io" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/istioio/istioio-ar21.svg" alt="istio" style="vertical-align:top; margin:4px">
-  </a>
-  
-  <a href="https://www.envoyproxy.io" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/envoyproxyio/envoyproxyio-ar21.svg" alt="istio" style="vertical-align:top; margin:4px">
-  </a>
+### ⚡️个人简介
 
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git" style="vertical-align:top; margin:4px;">
-  </a>
-  
-  <a href="https://gitlab.com/users/sign_in" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg" alt="gitlab" style="vertical-align:top; margin:4px;">
-  </a>
-  
-  <a href="https://travis-ci.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-ar21.svg" alt="travis" style="vertical-align:top; margin:4px;">
-  </a>
-  
-  <a href="https://www.jenkins.io/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg" alt="jenkins" style="vertical-align:top; margin:4px">
-  </a><br/>
-</p>
-<br/>
+  本人是一个喜欢捣鼓一些新鲜技术的95后搬砖工程师，擅长于C#，.NET ，.NET Core，Golang，TypeScript，Vue，Uni-app，Angular开发，喜欢搞搞事情，擅长技术总结和管理。有分布式、微服务应用，云原生应用，微信Web应用、小程序，H5移动端应用，企业Web应用（ERP，CRM，OA系统)开发经验。
 
----
+- [✨关于本人](https://mp.weixin.qq.com/s/T1KLhA5_qxar7URt_vMuSQ)
+- [✍️我的知乎](https://www.zhihu.com/people/ysgdaydayup)
+- [🥇我的博客园](https://www.cnblogs.com/Can-daydayup/)
+- [👨‍💻我的GitHub](https://github.com/YSGStudyHards)
+- [💯我的云+社区](https://cloud.tencent.com/developer/user/1370727)
 
-<p align="center">
-  <a href="#" alt="mehdi hadeli's github stats"><img src="https://github-readme-stats.vercel.app/api?username=YSGStudyHards&hide=["contribs","prs"]" /></a>
-</p>
+
+
+### ⚡️行业认知
+
+   无论你是在校学生或者是初入职场的小白还是久经职场的老司机，都要对互联网这个行业有一个正确的认知和觉悟：
+
+- 身体是革命的本钱，时刻注意自己的身心健康。
+- 互联网行业能人比比皆是，请保持你的敬畏心。
+- 不要相信互联网是年轻人的行业，请保持你的初心。
+- 互联网行业的技术瞬息万变，请时刻保持你学习的动力。
