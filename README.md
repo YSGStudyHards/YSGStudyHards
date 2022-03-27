@@ -1,7 +1,7 @@
 ### 个人简介
   本人是一个喜欢捣鼓新鲜技术的95后搬砖工程师，擅长于C#，.NET ，.NET Core，Golang，TypeScript，Vue，Uni-app，Angular开发，喜欢搞搞事情，擅长技术总结和管理。有分布式、微服务应用，云原生应用，微信Web应用、小程序，H5移动端应用，企业Web应用（ERP，CRM，OA等系统)开发经验。
 
-- [✨关于本人](https://mp.weixin.qq.com/s/T1KLhA5_qxar7URt_vMuSQ)
+- [✨关于本人](https://mp.weixin.qq.com/s/E7OfV1lQsxkYj7T8FN5gVA)
 - [✍️我的知乎](https://www.zhihu.com/people/ysgdaydayup)
 - [🥇我的博客园](https://www.cnblogs.com/Can-daydayup/)
 - [👨‍💻我的GitHub](https://github.com/YSGStudyHards)
