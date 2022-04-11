@@ -22,7 +22,3 @@
 
 | <a href="https://github.com/YSGStudyHards"><img align="center" src="https://github-readme-stats.vercel.app/api?username=YSGStudyHards&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&locale=cn" alt="YSGStudyHards github stats" /></a> | <a href="https://github.com/YSGStudyHards"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YSGStudyHards&layout=compact&theme=buefy&hide_border=true&locale=cn" /></a> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-
-## 🤝欢迎关注我一起沟通、交流学习、共同进步
-
-![追逐时光者的微信公众号](https://images.cnblogs.com/cnblogs_com/Can-daydayup/2141413/o_220409130943_%E6%88%91%E7%9A%84%E5%85%AC%E4%BC%97%E5%8F%B7.jpg "追逐时光者的微信公众号")
