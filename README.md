@@ -4,10 +4,8 @@
 - [✨关于本人](https://mp.weixin.qq.com/s/9CUaOlxHdekfgRPN4fx8jQ)
 - [✍️我的知乎](https://www.zhihu.com/people/ysgdaydayup)
 - [🥇我的博客园](https://www.cnblogs.com/Can-daydayup/)
-- [👨‍💻我的GitHub](https://github.com/YSGStudyHards)
 - [💯我的云+社区](https://cloud.tencent.com/developer/user/1370727)
 - [🏆阿里云开发者社区](https://developer.aliyun.com/profile/expert/fntqr6bofo2ye)
-
 
 
 ### 行业认知
