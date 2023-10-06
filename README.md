@@ -5,8 +5,9 @@
 - [✨关于本人](https://mp.weixin.qq.com/s/dCyKG6n6l5ICTl24dKNqbw)
 - [✍️我的知乎](https://www.zhihu.com/people/ysgdaydayup)
 - [🥇我的博客园](https://www.cnblogs.com/Can-daydayup/)
-- [💯我的云+社区](https://cloud.tencent.com/developer/user/1370727)
-- [🏆阿里云开发者社区](https://developer.aliyun.com/profile/expert/fntqr6bofo2ye)
+- [🐱‍🚀我的今日头条](https://www.toutiao.com/c/user/token/MS4wLjABAAAAaOr5hSYRqM9mfi_fNk-8FLxAW_J7VIbj1H8jVTHrArE/?source=list&log_from=e2d615e87e7b5_1696578889227&tab=all)
+- [💯我的腾讯云社区](https://cloud.tencent.com/developer/user/1370727)
+- [🏆我的阿里云社区](https://developer.aliyun.com/profile/expert/fntqr6bofo2ye)
 
 ### 行业认知
 
