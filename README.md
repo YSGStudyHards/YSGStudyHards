@@ -1,6 +1,7 @@
 ### 个人简介
 一个热爱捣鼓的全栈软件工程师，擅长于C#、.NET、.NET Core、Golang、TypeScript、Vue、Uni App、Angular开发，喜欢搞搞事情，擅长技术总结和管理。有分布式、微服务应用，云原生应用，微信Web应用、小程序，H5移动端应用，企业Web应用（ERP，CRM，OA等系统)设计和开发经验。
 - [✨关于本人](https://mp.weixin.qq.com/s/dCyKG6n6l5ICTl24dKNqbw)
+- [👪DotNetGuide技术社区](https://mp.weixin.qq.com/s/dgDT4Yexi_qyy84iYo9IiA)
 
 ### 行业认知
 无论你是在校学生或者是初入职场的小白还是久经职场的老司机，都要对互联网这个行业有一个正确的认知和觉悟：
