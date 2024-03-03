@@ -3,7 +3,7 @@
 - [✨关于本人](https://mp.weixin.qq.com/s/dCyKG6n6l5ICTl24dKNqbw)
 - [👪DotNetGuide技术社区](https://mp.weixin.qq.com/s/dgDT4Yexi_qyy84iYo9IiA)
 
-
+<a href="https://mvp.microsoft.com/zh-CN/mvp/profile/67a6d200-1c1d-43ee-8bf4-0a4d3d99224f"><img align="center" src="https://images.cnblogs.com/cnblogs_com/Can-daydayup/2382024/o_240303091335_MVPLogo.png"/></a>
 
 ### 行业认知
 无论你是在校学生或者是初入职场的小白还是久经职场的老司机，都要对互联网这个行业有一个正确的认知和觉悟：
