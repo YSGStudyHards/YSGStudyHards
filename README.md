@@ -1,5 +1,5 @@
 ### 个人简介
-一个热爱开源的全栈软件工程师，擅长C#、.NET、.NET Core、Golang、Vue、Angular等相关技术开发。有分布式、微服务应用，云原生应用，微信Web应用、小程序，H5移动端应用，企业Web应用（ERP，CRM，OA等系统)设计和开发经验。
+一个热爱开源的全栈软件工程师，擅长C#、.NET、.NET Core、Golang、Vue、Angular等相关技术开发。有分布式、微服务应用，云原生应用，微信Web应用、小程序，H5移动端应用，企业Web应用（ERP，CRM，OA等系统）设计和开发经验。
 - [✨关于本人](https://mp.weixin.qq.com/s/dCyKG6n6l5ICTl24dKNqbw)
 - [👪DotNetGuide技术社区](https://mp.weixin.qq.com/s/dgDT4Yexi_qyy84iYo9IiA)
 
