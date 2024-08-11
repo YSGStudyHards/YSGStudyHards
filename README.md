@@ -15,7 +15,7 @@
 - 互联网行业的技术瞬息万变，请时刻保持你学习的动力。
 
 ### 个人认知
-学习是一个永无止境的过程，你知道的越多，你不知道的也会越多，在有限的时间内坚持每天多学一点，你一定能成为你想要成为的那个人。不积跬步无以至千里，不积小流无以成江河！！！
+学习是一个永无止境的过程，你知道的越多，你不知道的也会越多，在有限的时间内坚持每天多学一点，你一定能成为你想要成为的那个人。不积跬步无以至千里，不积小流无以成江海！
 
 | <a href="https://github.com/YSGStudyHards"><img align="center" src="https://github-readme-stats.vercel.app/api?username=YSGStudyHards&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&locale=cn" alt="YSGStudyHards github stats" /></a> | <a href="https://github.com/YSGStudyHards"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YSGStudyHards&layout=compact&theme=buefy&hide_border=true&locale=cn" /></a> |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
