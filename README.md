@@ -7,9 +7,8 @@
 - [👨‍👩‍👦DotNetGuide技术社区](https://mp.weixin.qq.com/s/07UYvW8uuspWaaBrWjw2MQ)
 - [🌈C#/.NET/.NET Core学习、工作、面试指南](https://github.com/YSGStudyHards/DotNetGuide)
 
-<a href="https://www.yuque.com/ysgstudyhard/eonn6x/wbbtrsgegg6g9dhc"><img align="center" src="https://images.cnblogs.com/cnblogs_com/Can-daydayup/2447345/o_250302093353_DotNetGuideFaculty.jpg" width="50%"/></a>
-
-<a href="https://mvp.microsoft.com/zh-CN/mvp/profile/67a6d200-1c1d-43ee-8bf4-0a4d3d99224f"><img align="center" src="https://images.cnblogs.com/cnblogs_com/Can-daydayup/2382024/o_240303091335_MVPLogo.png" width="50%"/></a>
+| <a href="https://www.yuque.com/ysgstudyhard/eonn6x/wbbtrsgegg6g9dhc"><img align="center" src="https://images.cnblogs.com/cnblogs_com/Can-daydayup/2447345/o_250302093353_DotNetGuideFaculty.jpg" /></a> | <a href="https://mvp.microsoft.com/zh-CN/mvp/profile/67a6d200-1c1d-43ee-8bf4-0a4d3d99224f"><img align="center" src="https://images.cnblogs.com/cnblogs_com/Can-daydayup/2382024/o_240303091335_MVPLogo.png" width="150%"/></a> |
+| ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
 
 ### 行业认知
 无论你是在校学生或者是初入职场的小白还是久经职场的老司机，都要对互联网这个行业有一个正确的认知和觉悟：
