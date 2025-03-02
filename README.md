@@ -7,8 +7,8 @@
 - [👨‍👩‍👦DotNetGuide技术社区](https://mp.weixin.qq.com/s/07UYvW8uuspWaaBrWjw2MQ)
 - [🌈C#/.NET/.NET Core学习、工作、面试指南](https://github.com/YSGStudyHards/DotNetGuide)
 
-| <a href="https://mvp.microsoft.com/zh-CN/mvp/profile/67a6d200-1c1d-43ee-8bf4-0a4d3d99224f"><img align="center" src="https://images.cnblogs.com/cnblogs_com/Can-daydayup/2382024/o_240303091335_MVPLogo.png" width="150%"/></a> | <a href="https://www.yuque.com/ysgstudyhard/eonn6x/wbbtrsgegg6g9dhc"><img align="center" src="https://images.cnblogs.com/cnblogs_com/Can-daydayup/2447345/o_250302093353_DotNetGuideFaculty.jpg" /></a> |
-| ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| <a href="https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzIxMTUzNzM5Ng==&action=getalbum&album_id=2983928075727978497&scene=126&sessionid=1447077696#wechat_redirect"><img align="center" src="https://images.cnblogs.com/cnblogs_com/Can-daydayup/2141413/o_220409130943_%E6%88%91%E7%9A%84%E5%85%AC%E4%BC%97%E5%8F%B7.jpg"/></a> | <a href="https://www.yuque.com/ysgstudyhard/eonn6x/wbbtrsgegg6g9dhc"><img align="center" src="https://images.cnblogs.com/cnblogs_com/Can-daydayup/2447345/o_250302093353_DotNetGuideFaculty.jpg" /></a> | <a href="https://mvp.microsoft.com/zh-CN/mvp/profile/67a6d200-1c1d-43ee-8bf4-0a4d3d99224f"><img align="center" src="https://images.cnblogs.com/cnblogs_com/Can-daydayup/2382024/o_240303091335_MVPLogo.png" width="150%"/></a> | 
+| ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
 
 ### 行业认知
 无论你是在校学生或者是初入职场的小白还是久经职场的老司机，都要对互联网这个行业有一个正确的认知和觉悟：
@@ -22,7 +22,7 @@
 学习是一个永无止境的过程，你知道的越多，你不知道的也会越多，在有限的时间内坚持每天多学一点，你一定能成为你想要成为的那个人。不积跬步无以至千里，不积小流无以成江海！
 
 | <a href="https://github.com/YSGStudyHards"><img align="center" src="https://github-readme-stats.vercel.app/api?username=YSGStudyHards&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&locale=cn" alt="YSGStudyHards github stats" /></a> | <a href="https://github.com/YSGStudyHards"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YSGStudyHards&layout=compact&theme=buefy&hide_border=true&locale=cn" /></a> |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
 
 
 
