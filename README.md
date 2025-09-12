@@ -2,12 +2,11 @@
 一个热爱开源的全栈软件工程师，擅长C#、.NET、.NET Core、Golang、Vue、Angular等相关技术开发。有分布式、微服务应用，云原生应用，微信Web应用、小程序，H5移动端应用，企业Web应用（ERP，CRM，OA等系统）设计和开发经验。
 
 - [✨关于本人](https://mp.weixin.qq.com/s/dCyKG6n6l5ICTl24dKNqbw)
-- [🤖强大的.NET AI智能体](https://mp.weixin.qq.com/s/BStnJHEyMntyMsHaPiX_Sg)
-- [🎯DotNetGuide编程学院](https://www.yuque.com/ysgstudyhard/eonn6x/wbbtrsgegg6g9dhc)  
-- [👨‍👩‍👦DotNetGuide技术社区](https://mp.weixin.qq.com/s/07UYvW8uuspWaaBrWjw2MQ)
+- [🤖强大的.NET AI智能体](https://yuanqi.tencent.com/agent/RsFcawDgQn9a)
 - [🌈C#/.NET/.NET Core学习、工作、面试指南](https://github.com/YSGStudyHards/DotNetGuide)
-- [✍️知乎](https://www.zhihu.com/people/ysgdaydayup)、[👨‍🎓CSDN](https://ysgdaydayup.blog.csdn.net/)、[🥇博客园](https://www.cnblogs.com/Can-daydayup)、[💥51CTO](https://blog.51cto.com/ysgdaydayup)、[🕹掘金](https://juejin.cn/user/2770425031690333)、[🏆阿里云社区](https://developer.aliyun.com/profile/fntqr6bofo2ye)
-- [👨‍💻GitHub](https://github.com/YSGStudyHards)、[🦸‍♂️Gitee](https://gitee.com/ysgdaydayup)、[🎉华为云社区](https://bbs.huaweicloud.com/community/usersnew/id_1700830147186519)、[🚀今日头条](https://www.toutiao.com/c/user/token/MS4wLjABAAAAaOr5hSYRqM9mfi_fNk-8FLxAW_J7VIbj1H8jVTHrArE/?source=list&log_from=e2d615e87e7b5_1696578889227&tab=all)、[💯腾讯云社区](https://cloud.tencent.com/developer/user/1370727)
+- [🎯DotNetGuide编程学院](https://www.yuque.com/ysgstudyhard/eonn6x/wbbtrsgegg6g9dhc)、[👨‍👩‍👦DotNetGuide技术社区](https://mp.weixin.qq.com/s/07UYvW8uuspWaaBrWjw2MQ)
+- [✍️知乎](https://www.zhihu.com/people/ysgdaydayup)、[👨‍🎓CSDN](https://ysgdaydayup.blog.csdn.net/)、[🥇博客园](https://www.cnblogs.com/Can-daydayup)、[💥51CTO](https://blog.51cto.com/ysgdaydayup)、[🏆阿里云社区](https://developer.aliyun.com/profile/fntqr6bofo2ye)、[💯腾讯云社区](https://cloud.tencent.com/developer/user/1370727)
+- [👨‍💻GitHub](https://github.com/YSGStudyHards)、[🦸‍♂️Gitee](https://gitee.com/ysgdaydayup)、[🎉华为云社区](https://bbs.huaweicloud.com/community/usersnew/id_1700830147186519)、[🚀今日头条](https://www.toutiao.com/c/user/token/MS4wLjABAAAAaOr5hSYRqM9mfi_fNk-8FLxAW_J7VIbj1H8jVTHrArE/?source=list&log_from=e2d615e87e7b5_1696578889227&tab=all)、[🕹掘金](https://juejin.cn/user/2770425031690333)、[🌋火山引擎开发者社区](https://developer.volcengine.com/user/4188503629643049/articles)
 
 | <a href="https://www.yuque.com/ysgstudyhard/eonn6x/wbbtrsgegg6g9dhc"><img align="center" src="https://images.cnblogs.com/cnblogs_com/Can-daydayup/2447345/o_250302093353_DotNetGuideFaculty.jpg" /></a> | <a href="https://mvp.microsoft.com/zh-CN/mvp/profile/67a6d200-1c1d-43ee-8bf4-0a4d3d99224f"><img align="center" src="https://images.cnblogs.com/cnblogs_com/Can-daydayup/2382024/o_240303091335_MVPLogo.png" width="150%"/></a> | 
 | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
