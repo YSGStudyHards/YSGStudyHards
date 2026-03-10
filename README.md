@@ -1,10 +1,8 @@
 ### 😎个人简介
 一个热爱开源的全栈软件工程师，擅长C#、.NET、.NET Core、Golang、Vue、Angular等相关技术开发。有分布式、微服务应用，云原生应用，微信Web应用、小程序，H5移动端应用，企业Web应用（ERP，CRM，OA等系统）设计和开发经验。
 
-- [✨关于本人](https://mp.weixin.qq.com/s/dCyKG6n6l5ICTl24dKNqbw)
-- [🤖强大的.NET AI智能体](https://yuanqi.tencent.com/agent/RsFcawDgQn9a)
-- [🌈C#/.NET/.NET Core学习、工作、面试指南](https://github.com/YSGStudyHards/DotNetGuide)
-- [🎯DotNetGuide编程学院](https://www.yuque.com/ysgstudyhard/eonn6x/wbbtrsgegg6g9dhc)、[👨‍👩‍👦DotNetGuide技术社区](https://mp.weixin.qq.com/s/07UYvW8uuspWaaBrWjw2MQ)、[🔔DotNetGuide技术社区派](https://yb.tencent.com/gp/i/X80Sv2xPFuIH)
+- [✨关于本人](https://mp.weixin.qq.com/s/dCyKG6n6l5ICTl24dKNqbw)、[🌈C#/.NET/.NET Core学习、工作、面试指南](https://github.com/YSGStudyHards/DotNetGuide)
+- [🤖强大的.NET AI智能体](https://yuanqi.tencent.com/agent/RsFcawDgQn9a)、[🎯DotNetGuide编程学院](https://www.yuque.com/ysgstudyhard/eonn6x/wbbtrsgegg6g9dhc)、[👨‍👩‍👦DotNetGuide技术社区](https://mp.weixin.qq.com/s/07UYvW8uuspWaaBrWjw2MQ)
 - [✍️知乎](https://www.zhihu.com/people/ysgdaydayup)、[👨‍🎓CSDN](https://ysgdaydayup.blog.csdn.net/)、[🥇博客园](https://www.cnblogs.com/Can-daydayup)、[💥51CTO](https://blog.51cto.com/ysgdaydayup)、[🐦语雀](https://www.yuque.com/ysgstudyhard)、[🏆阿里云社区](https://developer.aliyun.com/profile/fntqr6bofo2ye)、[💯腾讯云社区](https://cloud.tencent.com/developer/user/1370727)
 - [👨‍💻GitHub](https://github.com/YSGStudyHards)、[🦸‍♂️Gitee](https://gitee.com/ysgdaydayup)、[🎉华为云社区](https://bbs.huaweicloud.com/community/usersnew/id_1700830147186519)、[🚀今日头条](https://www.toutiao.com/c/user/token/MS4wLjABAAAAaOr5hSYRqM9mfi_fNk-8FLxAW_J7VIbj1H8jVTHrArE/?source=list&log_from=e2d615e87e7b5_1696578889227&tab=all)、[🕹掘金](https://juejin.cn/user/2770425031690333)、[🎃InfoQ](https://www.infoq.cn/u/ysgdaydayup/publish)、[🌋火山引擎开发者社区](https://developer.volcengine.com/user/4188503629643049/articles)
 
