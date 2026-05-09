@@ -1,5 +1,5 @@
 ### 😎个人简介
-一个热爱开源的全栈软件工程师，专注于AI Vibe Coding研发提效与大模型应用工程实践，擅长C#、.NET、.NET Core、Golang、Vue、Angular等相关技术开发。有分布式、微服务应用，云原生应用，微信Web应用、小程序，H5移动端应用，企业Web应用（ERP，CRM，OA等系统）设计和开发经验。
+一个热爱开源的全栈软件工程师，专注于 AI Vibe Coding 研发提效与大模型应用工程实践，擅长 C#、.NET、.NET Core、Golang、Vue、Angular 等相关技术开发。有分布式、微服务应用，云原生应用，微信 Web 应用、小程序，H5 移动端应用，企业 Web 应用（ERP，CRM，OA 等系统）设计和开发经验。
 
 - [✨关于本人](https://mp.weixin.qq.com/s/dCyKG6n6l5ICTl24dKNqbw)、[💡微信公众号](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzIxMTUzNzM5Ng==&action=getalbum&album_id=1881849804402589699&scene=126&sessionid=1773145918244#wechat_redirect)、[🌈C#/.NET/.NET Core学习、工作、面试指南](https://github.com/YSGStudyHards/DotNetGuide)
 - [🤖强大的.NET AI智能体](https://yuanqi.tencent.com/agent/RsFcawDgQn9a)、[🎯DotNetGuide编程学院](https://www.yuque.com/ysgstudyhard/eonn6x/wbbtrsgegg6g9dhc)、[👨‍👩‍👦DotNetGuide技术社区](https://mp.weixin.qq.com/s/07UYvW8uuspWaaBrWjw2MQ)
