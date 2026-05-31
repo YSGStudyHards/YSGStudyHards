@@ -24,6 +24,8 @@
 <div align="center">
   <img src="./img/line.gif" alt="欢迎访问追逐时光者博客 https://www.cnblogs.com/Can-daydayup/" />
   <img src="./img/line.gif" alt="欢迎访问追逐时光者博客 https://www.cnblogs.com/Can-daydayup/" />
+  <img src="./img/line.gif" alt="欢迎访问追逐时光者博客 https://www.cnblogs.com/Can-daydayup/" />
+  <img src="./img/line.gif" alt="欢迎访问追逐时光者博客 https://www.cnblogs.com/Can-daydayup/" />
 </div>
 
 
